@@ -1,0 +1,38 @@
+# Comments and blank lines are ignored
+
+# 0SPAM
+url.0spam.org
+0spamurl.fusionzero.com
+
+# Abuse.ro
+uribl.abuse.ro
+
+# Hostkarma
+black.junkemailfilter.com
+
+# NordSpam
+dbl.nordspam.com
+
+# Spam Eating Monkey (SEM)
+fresh.spameatingmonkey.net
+fresh10.spameatingmonkey.net
+fresh15.spameatingmonkey.net
+fresh30.spameatingmonkey.net
+freshzero.spameatingmonkey.net
+uribl.spameatingmonkey.net
+urired.spameatingmonkey.net
+
+# Spamhaus
+dbl.spamhaus.org
+
+# Suomispam
+dbl.suomispam.net
+
+# Swinog
+uribl.swinog.ch
+
+# Woody
+uri.blacklist.woody.ch
+
+# ZapBL
+rhsbl.zapbl.net

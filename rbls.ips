@@ -1,0 +1,162 @@
+# Comments and blank lines are ignored
+
+# 0SPAM
+bl.0spam.org
+0spam.fusionzero.com
+nbl.0spam.org
+0spam-n.fusionzero.com
+
+# Abuse.ro
+rbl.abuse.ro
+
+# Anonmails
+spam.dnsbl.anonmails.de
+
+# Backscatterer
+ips.backscatterer.org
+
+# Barracuda
+b.barracudacentral.org
+
+# Blocklist.de
+bl.blocklist.de
+
+# Calivent
+dnsbl.calivent.com.pe
+
+# Cymru Bogons
+bogons.cymru.com
+v4.fullbogons.cymru.com
+
+# DNS Servicios
+rbl.dns-servicios.com
+
+# DrMX
+bl.drmx.org
+
+# DroneBL
+bl.drmx.org
+
+# Fabel
+spamsources.fabel.dk
+
+# Habeas
+hil.habeas.com
+accredit.habeas.com
+sa-accredit.habeas.com
+hul.habeas.com
+sohul.habeas.com
+
+# Hostkarma
+black.junkemailfilter.com
+
+# IBM
+dnsbl.cobion.com
+
+# ICM Forbidden
+forbidden.icm.edu.pl
+
+# ImproWare
+spamrbl.imp.ch
+wormrbl.imp.ch
+
+# InterServer
+rbl.interserver.net
+
+# JIPPG
+mail-abuse.blacklist.jippg.org
+
+# Kempt
+dnsbl.kempt.net
+
+# KISA
+spamlist.or.kr
+
+# Konstant
+bl.konstant.no
+
+# LNSG / Leadmon
+spamguard.leadmon.net
+
+# Madavi
+dnsbl.madavi.de
+
+# Mailspike
+bl.mailspike.net
+z.mailspike.net
+
+# MSRBL
+phishing.rbl.msrbl.net
+spam.rbl.msrbl.net
+
+# Nether
+relays.nether.net
+unsure.nether.net
+
+# NiX
+ix.dnsbl.manitu.net
+
+# NordSpam
+bl.nordspam.com
+
+# NoSolicitado
+bl.nosolicitado.org
+bl.worst.nosolicitado.org
+
+# ORVEDB / AUPADS / RSBL
+orvedb.aupads.org
+rsbl.aupads.org
+
+# PSBL
+psbl.surriel.com
+
+# SpamRATS!
+dyna.spamrats.com
+noptr.spamrats.com
+spam.spamrats.com
+
+# Schulte
+rbl.schulte.org
+
+# Spam Eating Monkeys (SEM)
+backscatter.spameatingmonkey.net
+bl.spameatingmonkey.net
+
+# Sender Score
+score.senderscore.com
+
+# SORBS
+dnsbl.sorbs.net
+
+# SpamCop
+bl.spamcop.net
+
+# Spamhaus
+zen.spamhaus.org
+
+# SPFBL
+dnsbl.spfbl.net
+
+# Suomispam
+bl.suomispam.net
+
+# Swinog
+dnsrbl.swinog.ch
+
+# TRIUMF
+rbl2.triumf.ca
+
+# Truncate
+truncate.gbudb.net
+
+# UCE PROTECT
+dnsbl-0.uceprotect.net
+dnsbl-1.uceprotect.net
+dnsbl-2.uceprotect.net
+dnsbl-3.uceprotect.net
+
+# WPBL
+db.wpbl.info
+
+# ZapBL
+dnsbl.zapbl.net
